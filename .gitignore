@@ -1,0 +1,14 @@
+*.exe
+*.out
+*.vrx
+*.tbl
+*.data
+
+output/
+build/
+
+.vscode/
+.idea/
+
+*.tmp
+*.log
